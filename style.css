@@ -747,7 +747,9 @@ h4 {
 {
     color: #212121!important;
 }
-
+.black-contact {
+    color: #141414!important;
+}
 .portfolio-thumb {
     margin-bottom: 24px;
 }
@@ -1053,4 +1055,7 @@ h4 {
 {
     font-style: italic;
     font-size: 1em;
+}
+.col-sm-12, .tight-width-whitespace {
+    margin: 0;
 }
