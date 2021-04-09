@@ -700,7 +700,7 @@ p {
 }
 
 .social {
-    max-width: 400px;
+    max-width: 700px;
     margin: auto auto auto auto;
 }
 
@@ -1053,4 +1053,8 @@ h4 {
 {
     font-style: italic;
     font-size: 1em;
+}
+.footer{
+    display: flex;
+    flex-direction: column;
 }
